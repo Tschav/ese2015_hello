@@ -291,3 +291,302 @@ org.apache.maven.archetype.exception.ArchetypeGenerationFailure: The defined art
 2015-09-20 07:56:45,182 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/asdlfj/src/main/resources
 2015-09-20 07:56:45,184 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-09-20 07:56:45,184 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/asdlfj/src/test/resources
+2015-09-20 08:49:37,730 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-20 08:49:57,505 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/workspace/ESEProject
+2015-09-20 08:49:57,506 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-20 08:51:10,162 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: myteam:ESEProject:0.0.1-SNAPSHOT @ /home/marcel/workspace/ESEProject/pom.xml.
+2015-09-20 08:51:10,477 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-20 08:51:10,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/main/resources
+2015-09-20 08:51:10,483 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-20 08:51:10,484 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/test/resources
+2015-09-20 08:51:20,533 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-20 08:51:29,685 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/workspace/ESEProject
+2015-09-20 08:51:29,686 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-20 08:52:27,732 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-20 08:52:36,716 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/workspace/ESEProject
+2015-09-20 08:52:36,716 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-20 08:54:30,492 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-20 08:54:30,977 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Skeleton/src/main/java
+2015-09-20 08:54:30,978 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Skeleton/src/test/java
+2015-09-20 08:54:31,041 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-09-20 08:54:31,772 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-20 08:54:32,028 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:54:32,028 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-20 08:54:32,030 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:54:32,030 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-20 08:54:33,102 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-20 08:54:37,701 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-20 08:54:52,474 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:54:52,474 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-20 08:54:52,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:54:52,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-20 08:54:52,559 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-20 08:54:52,559 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-20 08:55:34,737 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/workspace/ESEProject
+2015-09-20 08:55:34,737 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-20 08:58:04,077 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-20 08:58:04,077 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/main/resources
+2015-09-20 08:58:04,079 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-20 08:58:04,079 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/test/resources
+2015-09-20 08:58:04,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:58:04,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-20 08:58:04,094 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-20 08:58:04,094 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-23 10:30:32,758 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-23 10:30:37,835 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/workspace/ESEProject
+2015-09-23 10:30:37,837 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:run
+2015-09-24 17:26:54,838 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-24 17:26:54,850 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/main/resources
+2015-09-24 17:26:54,853 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-24 17:26:54,854 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/test/resources
+2015-09-24 17:26:56,640 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-24 17:26:57,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:26:57,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 17:26:57,587 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:26:57,587 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 17:27:17,914 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-24 17:27:18,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:27:18,185 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 17:27:18,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:27:18,187 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 17:27:24,002 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/pom.xml.
+2015-09-24 17:27:24,260 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:27:24,260 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 17:27:24,262 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:27:24,262 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 17:34:25,116 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-09-24 17:34:25,220 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 17:34:25,221 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 17:37:35,067 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:37:35,067 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 17:37:35,071 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:37:35,071 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 17:37:38,668 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:37:38,669 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 17:37:38,672 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 17:37:38,672 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 17:42:22,770 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-09-24 17:42:22,868 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 17:42:22,868 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 18:45:30,223 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:45:30,223 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 18:45:30,226 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:45:30,226 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 18:46:14,623 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:46:14,623 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 18:46:14,625 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:46:14,625 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 18:46:33,360 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:46:33,361 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 18:46:33,362 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:46:33,362 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 18:58:33,504 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:58:33,504 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 18:58:33,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 18:58:33,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 18:58:43,580 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 18:58:43,580 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 20:12:15,867 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:12:15,870 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:12:15,872 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:12:15,872 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 20:26:10,819 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:26:10,820 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:26:10,821 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:26:10,821 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 20:26:38,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:26:38,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:26:38,181 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:26:38,181 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 20:44:32,704 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:44:32,704 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:44:32,705 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:44:32,706 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 20:45:07,076 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:45:07,076 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:45:07,078 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:45:07,078 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 20:45:10,729 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:45:10,729 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 20:45:10,732 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 20:45:10,732 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:06:03,848 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:03,849 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:06:03,850 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:03,850 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:06:36,248 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:36,248 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:06:36,250 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:36,250 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:06:52,187 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:52,187 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:06:52,189 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:06:52,189 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:07:03,341 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:07:03,341 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:07:03,342 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:07:03,342 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:11:08,454 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:11:08,454 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:11:08,455 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:11:08,456 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:11:40,684 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:11:40,684 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:11:40,685 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:11:40,686 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:11:45,289 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 21:11:45,290 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 21:15:27,194 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:15:27,194 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:15:27,196 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:15:27,196 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:15:58,441 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 21:15:58,441 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 21:19:34,263 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:19:34,263 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:19:34,265 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:19:34,266 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-24 21:20:04,356 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-24 21:20:04,356 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-24 21:29:44,009 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:29:44,009 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-24 21:29:44,011 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-24 21:29:44,011 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:25:52,047 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 09:25:52,051 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 09:27:52,920 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 09:27:52,920 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 09:31:46,749 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:31:46,749 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 09:31:46,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:31:46,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:34:24,981 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:34:24,981 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 09:34:24,982 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:34:24,983 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:34:55,031 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:34:55,032 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 09:34:55,033 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:34:55,034 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:37:45,257 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:37:45,258 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 09:37:45,259 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:37:45,259 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:45:23,409 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:45:23,409 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 09:45:23,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 09:45:23,410 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 09:47:47,597 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 09:47:47,597 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 10:53:42,382 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:53:42,382 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 10:53:42,383 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:53:42,383 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 10:53:53,036 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 10:53:53,036 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 10:57:31,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:57:31,768 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 10:57:31,770 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:57:31,771 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 10:58:00,962 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 10:58:00,962 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 10:58:39,408 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:58:39,409 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 10:58:39,411 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 10:58:39,411 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:01:27,701 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:01:27,701 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:01:27,703 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:01:27,703 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:03:30,887 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:03:30,887 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:03:30,889 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:03:30,889 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:06:40,173 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 11:06:40,173 [Worker-58] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 11:08:45,176 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:08:45,177 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:08:45,178 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:08:45,178 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:35:56,285 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:35:56,285 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:35:56,286 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:35:56,286 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:49:20,019 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:49:20,019 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:49:20,020 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:49:20,020 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:54:04,152 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:54:04,152 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:54:04,154 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:54:04,154 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 11:55:53,350 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:55:53,350 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 11:55:53,352 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 11:55:53,352 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:07:58,149 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:07:58,149 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:07:58,151 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:07:58,152 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:08:07,850 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:08:07,850 [Worker-56] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:09:23,891 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:09:23,891 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:09:23,892 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:09:23,892 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:09:37,715 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:09:37,715 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:11:53,547 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:11:53,547 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:11:53,548 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:11:53,548 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:11:58,486 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:11:58,487 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:14:23,848 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:14:23,848 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:14:23,849 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:14:23,849 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:14:32,088 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:14:32,089 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:18:41,765 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:18:41,765 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:18:41,766 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:18:41,767 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:18:50,729 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:18:50,729 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:20:31,382 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:20:31,382 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:20:31,383 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:20:31,383 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:22:02,660 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:22:02,660 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:22:02,661 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:22:02,661 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:22:09,254 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:22:09,255 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:23:24,329 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:23:24,329 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:23:24,330 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:23:24,330 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:23:47,634 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:23:47,634 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:23:47,635 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:23:47,635 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:32:57,479 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:32:57,480 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:32:57,481 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:32:57,481 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 12:33:00,031 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton
+2015-09-25 12:33:00,031 [Worker-68] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:stop jetty:run
+2015-09-25 12:34:45,095 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:34:45,095 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 12:34:45,096 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 12:34:45,096 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
+2015-09-25 13:07:59,669 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-25 13:07:59,678 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/main/resources
+2015-09-25 13:07:59,680 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-25 13:07:59,681 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/workspace/ESEProject/src/test/resources
+2015-09-25 13:08:00,187 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 13:08:00,187 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/main/resources
+2015-09-25 13:08:00,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-09-25 13:08:00,189 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/marcel/Dokumente/Informatik/ESE/course-wiki-master/Skeleton/src/test/resources
