@@ -8,6 +8,8 @@
 
 <h1>Sign Up Complete!</h1>
 
-
+<div class="form-actions">
+	<input action="action" type="button" value="Back" onclick="history.go(-1);" />
+</div>
 
 <c:import url="template/footer.jsp" />

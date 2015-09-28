@@ -49,6 +49,7 @@
         		</form:select>
     			<form:errors path="team" cssClass="help-inline" element="span"/>
         	</div>
+        	<p>No Team? Create one! <a href="new-team">Click here</a></p>
         </div>
         <div class="form-actions">
             <button type="submit" class="btn btn-primary">Sign up</button>
