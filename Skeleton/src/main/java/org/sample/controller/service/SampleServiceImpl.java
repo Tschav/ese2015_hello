@@ -1,5 +1,6 @@
 package org.sample.controller.service;
 
+import org.sample.controller.exceptions.InvalidTeamException;
 import org.sample.controller.exceptions.InvalidUserException;
 import org.sample.controller.pojos.SignupForm;
 import org.sample.controller.pojos.SignupTeam;
@@ -64,8 +65,11 @@ public class SampleServiceImpl implements SampleService {
 
     @Transactional
 	public SignupTeam saveFrom(SignupTeam signupTeam)
-			throws InvalidUserException {
+			throws InvalidTeamException {
 		
+    	if(teamDao.findByTeamName(signupTeam.getTeamName()) != null)
+    		throw new InvalidTeamException("Team already exists!");
+    	
 		Timestamp currentTimestamp;
 		
 		Date date = new Date();

@@ -7,7 +7,6 @@
 <c:import url="template/header.jsp" />
 
 <table>
-	<tbody>
 		<tr>
 			<td>Id:</td>
 			<td><c:out value="${userId}" /></td>
@@ -35,7 +34,6 @@
 				</c:choose>
 			</td>
 		</tr>
-	</tbody>
 </table>
 
 <c:if test="${page_error != null }">

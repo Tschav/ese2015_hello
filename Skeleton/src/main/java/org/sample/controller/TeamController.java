@@ -2,6 +2,7 @@ package org.sample.controller;
 
 import javax.validation.Valid;
 
+import org.sample.controller.exceptions.InvalidTeamException;
 import org.sample.controller.exceptions.InvalidUserException;
 import org.sample.controller.pojos.SignupTeam;
 import org.sample.controller.service.SampleService;
@@ -35,7 +36,7 @@ public class TeamController{
             try {
             	sampleService.saveFrom(signupTeam);
             	model = new ModelAndView("show");
-            } catch (InvalidUserException e) {
+            } catch (InvalidTeamException e) {
             	model = new ModelAndView("new-team");
             	model.addObject("page_error", e.getMessage());
             }
